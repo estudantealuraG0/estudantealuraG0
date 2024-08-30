@@ -1,9 +1,29 @@
-## Hi there 👋
+## boas vindas ao meu perfil 
 
-<!--
-**estudantealuraG0/estudantealuraG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+o meu nome é Guilherme
 
-Here are some ideas to get you started:
+estou desenvolvendo scratch e java script
+
+ ![cr7](https://media.tenor.com/ovPzq3K9F2kAAAAi/cristiano-ronaldo.gif)
+ 
+ meu **curriculo profissional**
+
+ https://drive.google.com/drive/home
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
